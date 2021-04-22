@@ -1,0 +1,8 @@
+Modeules:
+• pyttsx3==2.90
+• SpeechRecognition==3.8.1
+• wikipedia==1.4.0
+• PyAudio==PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+• wolframalpha==5.0.0
+Download pyaudio file from here https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+
